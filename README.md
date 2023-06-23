@@ -3,7 +3,7 @@ This project shortens URLs, displays them in a table along with a note the user 
 
 To run the project, clone the files and type in the terminal npm run devStart. The server will start running on port 5000, which can be acessed by going to http://localhost:5000/register on which you see a website like this:
 
-![image](https://github.com/Lokesh2626/Url-Shortener-and-Search/assets/95361104/f6c1d467-5f3b-478f-a6cc-80b59146d3a6)
+![image](https://github.com/Lokesh2626/URL-Shortener-and-Search-/assets/95361104/65df7912-a172-411d-bd7a-f10e99e82a5d)
 
 After entering your details, they get stored in the database and you are redirected to:
 
