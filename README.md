@@ -3,19 +3,19 @@ This project shortens URLs, displays them in a table along with a note the user 
 
 To run the project, clone the files and type in the terminal npm run devStart. Mongodb Atlas, Node JS needs to be installed on your PC. The server will start running on port 5000, which can be acessed by going to http://localhost:5000/register on which you see a website like this:
 
-![image](https://github.com/Lokesh2626/URL-Shortener-and-Search-/assets/95361104/65df7912-a172-411d-bd7a-f10e99e82a5d)
+![image](https://github.com/Lokesh2626/URL-Shortener-and-Search-/assets/95361104/2fdea36a-5c30-4037-a3a5-081f97017f71)
 
 After entering your details, they get stored in the database and you are redirected to:
 
-![image](https://github.com/Lokesh2626/URL-Shortener-and-Search-/assets/95361104/5bd3c8ca-abfc-4e05-858a-acf2bdff63a1)
+![image](https://github.com/Lokesh2626/URL-Shortener-and-Search-/assets/95361104/f723001d-3345-4f85-8e23-4c1d5e30d488)
 
 Finally on entering the correct details you get to the website as below, where you can shorten and store URLs on your local MongoDB database (your database will be empty).
 
-![image](https://github.com/Lokesh2626/URL-Shortener-and-Search-/assets/95361104/a2f82bbc-ece3-4443-ac69-9441415d03ed)
+![image](https://github.com/Lokesh2626/URL-Shortener-and-Search-/assets/95361104/20a450c9-1adb-47aa-ab8d-2cad5763f7e7)
 
 To search, you can input any part of the full URL, short URL or the note, which then returns all the possible results for the term. E.g. on searching for 'mong', we get
 
-![image](https://github.com/Lokesh2626/URL-Shortener-and-Search-/assets/95361104/5a6ddaff-ae5c-4140-8c73-56ca092d67db)
+![image](https://github.com/Lokesh2626/URL-Shortener-and-Search-/assets/95361104/7ba3290f-4bc5-4716-9e11-dc0c8c9cda33)
 
 ** Following part not needed if code works fine **
 
