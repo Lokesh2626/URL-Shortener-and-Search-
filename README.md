@@ -1,7 +1,9 @@
 # Url-Shortener-and-Search
 This project shortens URLs, displays them in a table along with a note the user can add to each URL and also the number of times the user clicks on the URL. It also has a search feature in which the user can search by the full URL, short URL, or the note he/she adds. There is also an authentication feature, by which the user can only log in to the database if they are registered.
 
-To run the project, clone the files and type in the terminal npm run devStart. Mongodb Atlas, Node JS needs to be installed on your PC. The server will start running on port 5000, which can be acessed by going to http://localhost:5000/register on which you see a website like this:
+Here is the deployed project: https://zany-blue-horse-cape.cyclic.app/
+
+To run the project locally, clone the files and type in the terminal npm run devStart. Mongodb Atlas, Node JS needs to be installed on your PC. The server will start running on port 5000, which can be acessed by going to http://localhost:5000/register on which you see a website like this:
 
 ![image](https://github.com/Lokesh2626/URL-Shortener-and-Search-/assets/95361104/2fdea36a-5c30-4037-a3a5-081f97017f71)
 
