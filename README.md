@@ -37,4 +37,7 @@ The frontend and backend files are coded independently of each other. The databa
 **Resources/References:**
 
 https://www.youtube.com/@WebDevSimplified
+
 https://www.mongodb.com/docs/
+
+**Lokesh Kolhe**
